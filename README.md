@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gk646
-- 👀 I’m interested in ... coding in Java and Python 
+- 👀 I’m interested in ... coding in Java and Python and C
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ... nothing - until iam better.
 - 📫 How to reach me ... 
