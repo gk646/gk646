@@ -21,7 +21,7 @@ I'm an undergrad student in artificial intelligence interested in becoming a sof
 #
 
 
-<img align="left" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=gk646&show_icons=true&theme=solarized-light&locale=en" alt="gk646" />
-<img align="left" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=gk646&show_icons=true&theme=solarized-light&locale=en&layout=compact" alt="gk646" />
+<img align="left" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=gk646&show_icons=true&theme=ocean_dark&locale=en" alt="gk646" />
+<img align="left" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=gk646&show_icons=true&theme=ocean_dark&locale=en&layout=compact" alt="gk646" />
 
 
