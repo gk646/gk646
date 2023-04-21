@@ -1,23 +1,27 @@
-# gk646
+# &#x1F47E; gk646
 
 **`Aspiring Software Engineer`**
 
 
 I'm an undergrad student in artificial intelligence interested in becoming a software engineer. Some topics from the last project were GameDesign, Computer graphics and Machine Learning.
 
-
-
-
-- 🌱 I’m currently learning **C++, machine learning**
-
-- 💬 Ask me about **Java/JavaFX**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gk646&label=Profile%20views&color=0e75b6&style=flat" alt="gk646" /> </p>
 
+--- 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### &#x1F9F0; Languages and Tools
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-line.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg"/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gk646&show_icons=true&locale=en&layout=compact" alt="gk646" /></p>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original.svg"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gk646&show_icons=true&theme=synthwave&locale=en" alt="gk646" /></p>
+<br />
+
+#
+
+
+<img align="left" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=gk646&show_icons=true&theme=solarized-light&locale=en" alt="gk646" />
+<img align="left" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=gk646&show_icons=true&theme=solarized-light&locale=en&layout=compact" alt="gk646" />
+
 
