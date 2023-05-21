@@ -3,7 +3,7 @@
 **`Aspiring Software Engineer`**
 
 
-I'm an undergrad student in artificial intelligence interested in becoming a software engineer. Some topics from my last projects were game-making, computer graphics and machine learning.
+I'm an undergrad student in artificial intelligence interested in becoming a software engineer. I really enjoy making software projects from the ground up using custom made datastructures and only very few dependencies. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gk646&label=Profile%20views&color=0e75b6&style=flat" alt="gk646" /> </p>
 
