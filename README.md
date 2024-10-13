@@ -5,7 +5,10 @@
 
 I'm an undergrad student in artificial intelligence interested in becoming a software engineer. I really enjoy making software projects from the ground up using custom made datastructures and only very few dependencies. 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gk646&label=Profile%20views&color=0e75b6&style=flat" alt="gk646" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gk646&label=Profile%20views&color=0e75b6&style=flat" alt="gk646" /> 
+<a href='https://ko-fi.com/W7W2KS1KW' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>  
+</p> 
 
 --- 
 
@@ -25,5 +28,3 @@ I'm an undergrad student in artificial intelligence interested in becoming a sof
 
 <img align="left" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=gk646&show_icons=true&theme=ocean_dark&locale=en" alt="gk646" />
 <img align="left" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=gk646&show_icons=true&theme=ocean_dark&locale=en&layout=compact" alt="gk646" />
-
-
