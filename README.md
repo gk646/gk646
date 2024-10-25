@@ -10,13 +10,6 @@ I'm currently studying artificial intelligence and enjoy creating useful open so
 
 My favorite language is **C++**, but I also work with **Java**, **C**, **Python**, and **Lua** when the project demands it.
 
----
-
-If you'd like to support my work:
-
-<a href='https://ko-fi.com/W7W2KS1KW' target='_blank'>
-  <img height='36' style='border:0px; height:36px; margin-top:-10px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-</a>
 
 
 ---
