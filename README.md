@@ -24,7 +24,7 @@ Feel free to reach out for questions or requests: `gk646@proton.me`
   <img src="https://komarev.com/ghpvc/?username=gk646&label=Profile%20views&color=0e75b6&style=flat" alt="gk646 profile views" />
 </p>
 
-![Stats](./profile/stats.svg)
+[![Stats](https://github-stats-extended.vercel.app/api?username=gk646&theme=ocean_dark)](https://github.com/stats-organization/github-stats-extended)
 ![Top Languages](./profile/top-langs.svg)
 
 
